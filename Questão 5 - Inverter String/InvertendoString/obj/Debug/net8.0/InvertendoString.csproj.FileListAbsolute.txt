@@ -1,0 +1,14 @@
+C:\Estudos\InvertendoString\InvertendoString\bin\Debug\net8.0\InvertendoString.exe
+C:\Estudos\InvertendoString\InvertendoString\bin\Debug\net8.0\InvertendoString.deps.json
+C:\Estudos\InvertendoString\InvertendoString\bin\Debug\net8.0\InvertendoString.runtimeconfig.json
+C:\Estudos\InvertendoString\InvertendoString\bin\Debug\net8.0\InvertendoString.dll
+C:\Estudos\InvertendoString\InvertendoString\bin\Debug\net8.0\InvertendoString.pdb
+C:\Estudos\InvertendoString\InvertendoString\obj\Debug\net8.0\InvertendoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\InvertendoString\InvertendoString\obj\Debug\net8.0\InvertendoString.AssemblyInfoInputs.cache
+C:\Estudos\InvertendoString\InvertendoString\obj\Debug\net8.0\InvertendoString.AssemblyInfo.cs
+C:\Estudos\InvertendoString\InvertendoString\obj\Debug\net8.0\InvertendoString.csproj.CoreCompileInputs.cache
+C:\Estudos\InvertendoString\InvertendoString\obj\Debug\net8.0\InvertendoString.dll
+C:\Estudos\InvertendoString\InvertendoString\obj\Debug\net8.0\refint\InvertendoString.dll
+C:\Estudos\InvertendoString\InvertendoString\obj\Debug\net8.0\InvertendoString.pdb
+C:\Estudos\InvertendoString\InvertendoString\obj\Debug\net8.0\InvertendoString.genruntimeconfig.cache
+C:\Estudos\InvertendoString\InvertendoString\obj\Debug\net8.0\ref\InvertendoString.dll

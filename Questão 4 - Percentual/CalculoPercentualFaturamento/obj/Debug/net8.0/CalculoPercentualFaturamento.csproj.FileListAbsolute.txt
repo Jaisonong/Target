@@ -1,0 +1,14 @@
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\bin\Debug\net8.0\CalculoPercentualFaturamento.exe
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\bin\Debug\net8.0\CalculoPercentualFaturamento.deps.json
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\bin\Debug\net8.0\CalculoPercentualFaturamento.runtimeconfig.json
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\bin\Debug\net8.0\CalculoPercentualFaturamento.dll
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\bin\Debug\net8.0\CalculoPercentualFaturamento.pdb
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\obj\Debug\net8.0\CalculoPercentualFaturamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\obj\Debug\net8.0\CalculoPercentualFaturamento.AssemblyInfoInputs.cache
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\obj\Debug\net8.0\CalculoPercentualFaturamento.AssemblyInfo.cs
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\obj\Debug\net8.0\CalculoPercentualFaturamento.csproj.CoreCompileInputs.cache
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\obj\Debug\net8.0\CalculoPercentualFaturamento.dll
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\obj\Debug\net8.0\refint\CalculoPercentualFaturamento.dll
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\obj\Debug\net8.0\CalculoPercentualFaturamento.pdb
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\obj\Debug\net8.0\CalculoPercentualFaturamento.genruntimeconfig.cache
+C:\Estudos\CalculoPercentualFaturamento\CalculoPercentualFaturamento\obj\Debug\net8.0\ref\CalculoPercentualFaturamento.dll
